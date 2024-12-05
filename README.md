@@ -2,7 +2,7 @@
 #### Windows application for download videos with blob url 
 
 ## Step 1:
-  **Press F12** to find the `m38u` file in `Network` > `Fetch/XHR` and **Download** the file.
+  **Press F12** to find the `m3u8` file in `Network` > `Fetch/XHR` and **Download** the file.
 
 ## Step 2:
   Open the `m3u8` file and **Extract** all `ts` files saving into a `txt` file.
