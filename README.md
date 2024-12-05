@@ -5,7 +5,7 @@
   **Press F12** to find the `m38u` file in `Network` > `Fetch/XHR` and **Download** the file.
 
 ## Step 2:
-  Open the `m38u` file and **Extract** all `ts` files saving into a `txt` file.
+  Open the `m3u8` file and **Extract** all `ts` files saving into a `txt` file.
   Example:
   ```
   #EXTM3U
